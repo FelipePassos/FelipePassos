@@ -1,5 +1,5 @@
 ## Olá, meu nome é Joao Felipe dos Passos.
-#### Desenvolvedor Web com 2 anos de experiência em sistemas ERP,  e  e entusiasta Linux
+#### Desenvolvedor Web com 2 anos de experiência em manutenção e desenvolvimento de sistemas ERP com PHP e entusiasta em sistemas Linux
 <div align="center">
   <a href="https://github.com/FelipePassos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePassos&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
