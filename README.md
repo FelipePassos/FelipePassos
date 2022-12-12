@@ -1,5 +1,5 @@
 ## Olá, meu nome é Joao Felipe dos Passos.
-#### Desenvolvedor Web e entusiasta sobre novas tecnologias
+#### Desenvolvedor Web e entusiasta Linux
 <div align="center">
   <a href="https://github.com/FelipePassos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePassos&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
